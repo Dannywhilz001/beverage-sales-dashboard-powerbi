@@ -1,7 +1,7 @@
 # Beverage Sales Dashboard – Power BI  
 
-[Dashboard Preview](https://ibb.co/v2rTkLW)
-[Dashboard Preview](https://ibb.co/5gjpLvxB)
+[Dashboard Preview 1](https://ibb.co/v2rTkLW)
+[Dashboard Preview 2](https://ibb.co/5gjpLvxB)
 
 Interactive sales dashboard analyzing *3 million cleaned transactions* (originally 8.9M rows) for a beverage company (2021–2023).
 
